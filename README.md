@@ -38,8 +38,7 @@ print("{:.2f}".format(g))
 
 
 ### OUTPUT:
-![Screenshot (74)](https://github.com/user-attachments/assets/df062b59-4351-4697-96af-cae2622f664c)
-
+![Screenshot (74)](https://github.com/user-attachments/assets/91d3b904-3d83-49c7-a6f6-9242e39aea67)
 
 ### RESULT:
 The distacnce between two points found successfully.
